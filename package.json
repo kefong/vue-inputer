@@ -1,0 +1,22 @@
+{
+  "name": "vue-inputer",
+  "version": "1.0.0",
+  "description": "改装版input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kefong/vue-inputer.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "kefong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kefong/vue-inputer/issues"
+  },
+  "homepage": "https://github.com/kefong/vue-inputer#readme"
+}
